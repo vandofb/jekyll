@@ -7,6 +7,7 @@
   * Don't generate `.jekyll-metadata` in non-incremental build (#4079)
   * Set `highlighter` config val to `kramdown.syntax_highlighter` (#4090)
   * Align hooks implementation with documentation (#4104)
+  * Fix the deprecation warning in the doctor command (#4114)
 
 ### Development Fixes
 
@@ -19,6 +20,7 @@
   * Adds a note about installing the jekyll-gist gem to make gist tag work (#4101)
   * Align hooks documentation with implementation (#4104)
   * Add Jekyll Flickr Plugin to the list of third party plugins (#4111)
+  * Remove link to now-deleted blog post (#4125)
 
 ## 3.0.0 / 2015-10-26
 
